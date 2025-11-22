@@ -1,0 +1,6 @@
+pypdf2
+sentence-transformers
+chromadb
+transformers
+streamlit
+torch
