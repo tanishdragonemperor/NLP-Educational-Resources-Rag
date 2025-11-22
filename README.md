@@ -1,1 +1,1 @@
-# NLP-Educational-Resources-Rag
+# NLP-Educational-Resources-RAG
